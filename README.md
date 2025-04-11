@@ -5,6 +5,7 @@
 - 🤖 Cursor AI, Windsurf AI 등에 관심이 있습니다.
 - 🏃‍♂️ 언젠가는 1인 개발, 1인 기업이 되기를 꿈꾸고 있습니다.
 - 🥊 격투기, 자전거, 위스키, 넷플릭스, 여행을 좋아합니다.
+- 👨‍🎓 강원대학교 토목공학과 조기 졸업 (2019.08)
 
 ### Favorite techniques
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=loco9939&show_icons=true&theme=dracula&layout=compact&hide_border=true" width="400px">
