@@ -18,7 +18,7 @@
 #### [Shift Scheduler](https://shift-scheduler-one.vercel.app/)
 - 💡 교대 근무 직원 자동 스케줄 생성
 - 🛹 직원별 선호 근무 시간 우선 배정
-- 🌈 마감 담당자, 각 타임 별 최소 근무 인원, 주말 최소 근무 인원 등 조건에 따른 스케줄 자동 생성
+- 🌈 마감 담당자, 최소 근무 인원 등 조건에 따른 스케줄 자동 생성
 
 #### [Dear moment](https://dear-moment.kro.kr/)
 - 👰 웨딩 스냅 작가 플랫폼
