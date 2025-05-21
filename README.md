@@ -32,6 +32,10 @@
 - 🧸 Next js 학습을 위한 Toy Project
 - 🤔 헷갈리는 분리수거 방법을 간단한 퀴즈로 알아보는 사이트
 
+### [Brainrot-type-test](https://brainrot-type-test.netlify.app)
+- 🧠 "이탈리아 브레인롯 ai 밈"을 기반의 성격 유형 테스트
+- ⭐ Windsurf Ai로 2시간만에 배포까지 완료하고 GA4로 사용자 데이터 수집 및 통계
+
 ### Experience
 
 #### 👻 제로베이스 프론트엔드 스쿨 1기 (2022.07 ~ 2022.12)
